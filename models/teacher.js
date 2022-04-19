@@ -6,7 +6,7 @@ const teacherSchema = new Schema({
 		type: String,
 		required: true,
 	},
-	rollNo: {
+	designation: {
 		type: String,
 		required: true,
 	},
